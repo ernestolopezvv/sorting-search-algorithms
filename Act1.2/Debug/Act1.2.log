@@ -1,0 +1,8 @@
+﻿  Act1.2.cpp
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(17,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(20,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(35,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\usuario\source\repos\Act1.2\Act1.2\Act1.2.cpp(50,15): warning C4018: '<': signed/unsigned mismatch
+  Act1.2.vcxproj -> C:\Users\usuario\source\repos\Act1.2\Debug\Act1.2.exe
